@@ -1,4 +1,4 @@
-#Sample # SASIKUMAR S - Resume Website
+ # Sample SASIKUMAR S - Resume Website
 
 ## Overview
 This is a simple, clean, and professional personal resume website built with HTML, CSS, and JavaScript. It showcases the resume details of SASIKUMAR S, a Junior Full Stack Developer with experience in C# and ASP.NET technologies.
